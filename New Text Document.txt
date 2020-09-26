@@ -1,0 +1,4 @@
+git clone "git-url"
+git status
+git add .
+git commit -m "My First commit"
